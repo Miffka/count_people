@@ -2,6 +2,10 @@
 
 The project uses COCO-pretrained YOLOv5 (https://github.com/ultralytics/yolov5) to detect and count people on live stream videos.
 
+Sample results:
+
+<img src="./imgs/gostiny.png" align="center" width=800>
+
 ## Installation
 
 ```
